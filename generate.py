@@ -12,7 +12,7 @@ for score_type in score_types:
 <html lang="en">
 <head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>{score_type} Verileri</title>
-<link rel="stylesheet" href="/static/style.css" />
+<link rel="stylesheet" href="/yokdumb/static/style.css" />
 </head><body><div id="main">
 <h1>{score_type} Verileri</h1>
 <table><tr><th>ID</th><th>Üniversite</th><th>Fakülte</th><th>Bölüm</th><th>Öğrenim Türü</th><th>Kontenjan</th><th>Yerleşen</th><th>Sıralama</th></tr>
