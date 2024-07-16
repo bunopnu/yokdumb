@@ -1,0 +1,23 @@
+div#main {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #aaa;
+  text-align: left;
+  padding: 4px;
+  margin: 0;
+}
+
+tr:nth-child(even) {
+  background-color: #eee;
+}
+
+span {
+  display: block;
+}
